@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on finishing my undergraduate degree in Computer Science<br>🍀 My interests span across machine learning, web dev and software engineering<br>🚦 I’m currently learning operating systems and machine learning tools<br>🌟 Hobbies: volunteering, volleyball, and space technology
+🔭 I’m currently working on finishing my undergraduate degree in Computer Science<br>🍀 My interests span across machine learning, robotics, web dev and software engineering<br>🚦 I’m currently learning operating systems and machine learning tools<br>🌟 Hobbies: SPACE, volunteering, volleyball!
 
 
 ## 🌐 Socials:
