@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on finishing my undergraduate degree in Computer Science<br>🍀 My interests span across machine learning, robotics, web dev and software engineering<br>🚦 I’m currently learning operating systems and machine learning tools<br>🌟 Hobbies: space exploration, volleyball, enjoying nature!
+🔭 I’m a graduate with a Bachelor of Computer Science from the University of Adelaide<br>🍀 My interests span across machine learning, robotics, web dev and software engineering<br>🚦 I’m currently doing contract projects in front-end web design and project management<br>🌟 Hobbies: space exploration, volleyball, nature.
 
 
 ## 🌐 Socials:
